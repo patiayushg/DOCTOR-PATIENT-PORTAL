@@ -1,0 +1,39 @@
+/*Decoration of login table*/
+img{
+width:70%;
+height:100%}
+#div1
+{
+width:auto;
+height:26vw;
+max-height:340px;
+background-color:powderblue;
+}
+#div1 p
+{
+font-weight:bold;
+font-size:4vw;
+position:absolute;
+top:20px;
+text-shadow:3px 4px 5px silver
+}
+#div1 p span
+{
+position:relative;
+left:10vw
+}
+#div2
+{
+width:auto;
+height:auto;
+}
+#div2 #p1
+{
+margin:40px auto;
+text-align:center;
+height:170px;
+width:290px;
+border:2px groove silver;
+background-color:lightblue;
+display:inline-block;
+}

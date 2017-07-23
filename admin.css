@@ -1,0 +1,53 @@
+/*For decorating image and list in doctor*/
+img{
+width:70%;
+height:100%}
+#div1
+{
+width:auto;
+height:26vw;
+max-height:340px;
+background-color:blue;
+}
+#div1 p
+{
+font-weight:bold;
+font-size:4vw;
+position:absolute;
+top:20px;
+text-shadow:3px 4px 5px silver;
+}
+#div1 p span
+{
+position:relative;
+left:10vw;
+}
+#div2 ul
+{
+min-width:730px;
+margin-left:-18px;
+display:inline-block;
+}
+#div2 ul li
+{
+font-family:calibri;
+text-align:center;
+background-color:lightblue;
+border:3px inset blue;
+border-radius:5px;
+height:auto;
+float:left;
+line-height:30px;
+padding:10px;
+margin-left:3px;
+}
+#div2 a
+{
+text-decoration:none;
+color:black;
+}
+#div2 a:hover
+{
+color:green;
+font-size:20px;
+}

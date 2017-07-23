@@ -1,0 +1,47 @@
+/*For decorating home page*/
+img{
+width:70%;
+height:100%}
+#div1
+{
+width:auto;
+height:26vw;
+max-height:340px;
+}
+#div1 p
+{
+font-weight:bold;
+font-size:4vw;
+position:absolute;
+top:20px;
+text-shadow:3px 4px 5px silver
+}
+#div1 p span
+{
+position:relative;
+left:10vw
+}
+#div2
+{
+width:auto;
+min-width:800px;
+margin-top:30px;
+height:auto;
+}
+#div2 #admin
+{
+width:20%;
+height:25%;
+}
+#div2 #doctor
+{
+margin-left:130px;
+width:20%;
+height:25%;
+}
+#div2 #patient
+{
+margin-left:130px;
+width:20%;
+height:25%;
+}
